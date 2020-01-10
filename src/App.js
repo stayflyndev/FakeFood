@@ -59,7 +59,7 @@ class App extends Component {
         }
         <Header />
         <Switch>
-        <Route exact path='/' component={HomePage} />
+        <Route path='/' component={HomePage} />
         <Route path='/mexican/' component={Shop} />
         <Route path='/jamaican/' component={Shop} />
         <Route path='/chinese/' component={Shop} />
