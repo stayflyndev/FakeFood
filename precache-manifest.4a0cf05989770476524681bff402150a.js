@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb634f7d9ebce4a3f23c74f271f1d3d9",
+    "revision": "db31cd2c6751aeb5695b59afad49dc52",
     "url": "/FakeFoods/index.html"
   },
   {
-    "revision": "5a5d670a81d72e5ebc0e",
+    "revision": "f2b8fef257f52349b048",
     "url": "/FakeFoods/static/css/main.bfe30c8f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FakeFoods/static/js/2.b9200529.chunk.js.LICENSE"
   },
   {
-    "revision": "5a5d670a81d72e5ebc0e",
-    "url": "/FakeFoods/static/js/main.a5623df0.chunk.js"
+    "revision": "f2b8fef257f52349b048",
+    "url": "/FakeFoods/static/js/main.1a3f65a2.chunk.js"
   },
   {
     "revision": "4b98fa40d191fba9db01",
