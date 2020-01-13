@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FakeFoods/static/css/main.bfe30c8f.chunk.css",
+    "main.js": "/FakeFoods/static/js/main.a5623df0.chunk.js",
+    "main.js.map": "/FakeFoods/static/js/main.a5623df0.chunk.js.map",
+    "runtime-main.js": "/FakeFoods/static/js/runtime-main.1c144061.js",
+    "runtime-main.js.map": "/FakeFoods/static/js/runtime-main.1c144061.js.map",
+    "static/js/2.b9200529.chunk.js": "/FakeFoods/static/js/2.b9200529.chunk.js",
+    "static/js/2.b9200529.chunk.js.map": "/FakeFoods/static/js/2.b9200529.chunk.js.map",
+    "index.html": "/FakeFoods/index.html",
+    "precache-manifest.76c9d64260b0977332b774cc6db00355.js": "/FakeFoods/precache-manifest.76c9d64260b0977332b774cc6db00355.js",
+    "service-worker.js": "/FakeFoods/service-worker.js",
+    "static/css/main.bfe30c8f.chunk.css.map": "/FakeFoods/static/css/main.bfe30c8f.chunk.css.map",
+    "static/js/2.b9200529.chunk.js.LICENSE": "/FakeFoods/static/js/2.b9200529.chunk.js.LICENSE",
+    "static/media/icon4.abdc77c7.svg": "/FakeFoods/static/media/icon4.abdc77c7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c144061.js",
+    "static/js/2.b9200529.chunk.js",
+    "static/css/main.bfe30c8f.chunk.css",
+    "static/js/main.a5623df0.chunk.js"
+  ]
+}
