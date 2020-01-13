@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import HomePage from './pages/Hompage/Homepage';
-import { Route, Redirect, Switch } from 'react-router-dom';
+import { Route, Redirect, Switch, HashRouter } from 'react-router-dom';
 import MexicanPage from './pages/Categories/Mexican/Mexican.component'
 import BBQPage from './pages/Categories/Bbq/Bbq.component'
 import ChinesePage from './pages/Categories/Chinese/Chinese.component'
@@ -53,13 +53,14 @@ class App extends Component {
   render() {
 
     return (
+      <HashRouter basename='/'>
       <div className="App">
         {/* start of the APP  *
      {/* nav bar and listing of categories */
         }
         <Header />
         <Switch>
-        <Route path='/' component={HomePage} />
+        <Route exact path='/' component={HomePage} />
         <Route path='/mexican/' component={Shop} />
         <Route path='/jamaican/' component={Shop} />
         <Route path='/chinese/' component={Shop} />
@@ -73,12 +74,9 @@ class App extends Component {
     }
     />
         </Switch>
-
-
-
-
-
+ 
       </div>
+      </HashRouter>
     )
 
   };
